@@ -13,4 +13,6 @@ El modelo está diseñado para identificar patrones de transacciones inusuales q
 ## Metodología
 El modelo fue entrenado utilizando el algoritmo Isolation Forest, que es especialmente eficaz para la detección de anomalías en grandes volúmenes de datos. Se emplearon técnicas de análisis exploratorio de datos (EDA) para comprender las características subyacentes de las transacciones antes de aplicar el modelo de machine learning.
 
-
+## Más Información
+- [Enlace al Proyecto en Notion](https://tiny-citrine-a6e.notion.site/An-lisis-de-Anomal-as-en-Transacciones-Financieras-utilizando-Isolation-Forest-14ec36fd2b59807eaafffa908a5ab061)
+- [Visita mi perfil de LinkedIn](https://www.linkedin.com/in/pablo-de-haro-pishoudt-0871972b6/)
